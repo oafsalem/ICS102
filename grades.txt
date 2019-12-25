@@ -1,0 +1,8 @@
+91002	Majed Sameer	20.0	100.0
+91006	Muhammad Adel	30.0	50.0
+91005	Muhsim Zuheir	50.0	60.0
+91004	Osama salem	40.0	40.0
+91001	mohammed mohammed	60.0	70.0
+92005	salem khalid	70.0	80.0
+92008	samer alameer	80.0	90.0
+93005	anas fahad	90.0	20.0
